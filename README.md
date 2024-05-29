@@ -1,4 +1,3 @@
-# 🤝 About me
 <h1 align="center">Hi 👋, I'm Be Anjara HOUSSEN</h1>
 <h3 align="center">A passionate developer from Madagascar</h3>
 
