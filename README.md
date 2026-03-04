@@ -98,47 +98,6 @@ I thrive on fast onboarding, modernizing legacy codebases, and shipping solution
   <img src="https://raw.githubusercontent.com/hbeanjarah/hbeanjarah/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%" />
 </div>
 
----
-
-<details>
-<summary>⚙️ <strong>How to activate the 3D Contribution Calendar</strong></summary>
-
-<br/>
-
-Create the file `.github/workflows/profile-3d.yml` in your `hbeanjarah/hbeanjarah` repository:
-
-```yaml
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: hbeanjarah
-      - name: Commit & Push
-        run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git add -A .
-          git commit -m "Generate 3D Contribution Calendar"
-          git push
-```
-
-Then go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** to trigger it manually the first time.
-
-</details>
-
----
 
 <div align="center">
 
