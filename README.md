@@ -1,39 +1,149 @@
-<h1 align="center">Hi 👋, I'm Be Anjara HOUSSEN</h1>
-<h3 align="center">A passionate developer from Madagascar</h3>
-
-- 🔭 I’m currently learning **Rust and python**
-- 📫 How to reach me **hbeanjarahoussen@gmail.com**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hbeanjarah&label=Profile%20views&color=0e75b6&style=flat" alt="hbeanjarah" /> </p>
-
-# 📊 GitHub Stats:
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hbeanjarah&theme=city_light&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbeanjarah&theme=city_light&hide_border=true" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbeanjarah&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hbeanjarah&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:323859,100:4A3F73&height=130&section=header&text=Be%20Anjara%20HOUSSEN&fontColor=BDD9F2&fontSize=32&fontAlignY=60&desc=Full-Stack%20JavaScript%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20NestJS&descColor=A68776&descSize=13&descAlignY=80" />
 
-### ✍️ Favorite Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=light" alt="Random Dev Quote" />
-</div>
+<br/>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hbeanjarah&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-323859?style=for-the-badge&logo=linkedin&logoColor=BDD9F2)](https://linkedin.com/in/be-anjara-houssen)
+[![Email](https://img.shields.io/badge/Email-323859?style=for-the-badge&logo=gmail&logoColor=BDD9F2)](mailto:hbeanjarahoussen@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-323859?style=for-the-badge&logo=github&logoColor=BDD9F2)](https://github.com/hbeanjarah)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=hbeanjarah&style=for-the-badge&color=4A3F73&label=PROFILE+VIEWS&labelColor=323859)](https://github.com/hbeanjarah)
+
 </div>
 
 ---
-### 🔝 Contribution Graph
-<br clear="both">
-<img src="https://raw.githubusercontent.com/hbeanjarah/hbeanjarah/output/snake.svg" alt="Snake animation" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## &nbsp;✦ &nbsp;About
+
+Full-Stack JavaScript Developer with **5+ years of experience** in agencies and software firms, based in **Antananarivo, Madagascar**. I specialize in building performant web applications across the entire stack — from polished React interfaces to robust Node.js/NestJS backends.
+
+I thrive on fast onboarding, modernizing legacy codebases, and shipping solutions that make a real impact on users.
+
+```
+💡  Delivered a secured MVP in 1 month on a talent management platform
+⚡  Improved live shopping platform performance by 75% via streaming migration
+🔄  Migrated full codebase from CRA + React 18 → Vite + React 19
+📦  Built 2 reusable business libraries for recruitment workflow automation
+```
+
+---
+
+## &nbsp;✦ &nbsp;Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React_19-323859?style=flat-square&logo=react&logoColor=038C8C)
+![Next.js](https://img.shields.io/badge/Next.js-323859?style=flat-square&logo=nextdotjs&logoColor=BDD9F2)
+![TypeScript](https://img.shields.io/badge/TypeScript-323859?style=flat-square&logo=typescript&logoColor=038C8C)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-323859?style=flat-square&logo=tailwindcss&logoColor=038C8C)
+![React Native](https://img.shields.io/badge/React_Native-323859?style=flat-square&logo=react&logoColor=A68776)
+![Vite](https://img.shields.io/badge/Vite-323859?style=flat-square&logo=vite&logoColor=BDD9F2)
+![Zustand](https://img.shields.io/badge/Zustand-323859?style=flat-square&logo=react&logoColor=A68776)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-323859?style=flat-square&logo=redux&logoColor=BDD9F2)
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-323859?style=flat-square&logo=nestjs&logoColor=038C8C)
+![Node.js](https://img.shields.io/badge/Node.js-323859?style=flat-square&logo=nodedotjs&logoColor=038C8C)
+![Express](https://img.shields.io/badge/Express.js-323859?style=flat-square&logo=express&logoColor=BDD9F2)
+![GraphQL](https://img.shields.io/badge/GraphQL-323859?style=flat-square&logo=graphql&logoColor=A68776)
+![REST API](https://img.shields.io/badge/REST_API-323859?style=flat-square&logo=fastapi&logoColor=BDD9F2)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-323859?style=flat-square&logo=postgresql&logoColor=038C8C)
+![MongoDB](https://img.shields.io/badge/MongoDB-323859?style=flat-square&logo=mongodb&logoColor=038C8C)
+![AWS](https://img.shields.io/badge/AWS-323859?style=flat-square&logo=amazonwebservices&logoColor=A68776)
+![Docker](https://img.shields.io/badge/Docker-323859?style=flat-square&logo=docker&logoColor=BDD9F2)
+![Redis](https://img.shields.io/badge/Redis-323859?style=flat-square&logo=redis&logoColor=038C8C)
+
+---
+
+## &nbsp;✦ &nbsp;GitHub Stats
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hbeanjarah&theme=tokyo-night&hide_border=true&area=true&area_color=038C8C&line=4A3F73&point=BDD9F2&color=BDD9F2)](https://github.com/hbeanjarah)
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hbeanjarah&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hbeanjarah&theme=tokyonight" alt="Repos per Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hbeanjarah&theme=tokyonight" alt="Most Commit Language" width="32%" />
+
+</div>
+
+---
+
+## &nbsp;✦ &nbsp;Trophies
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hbeanjarah&theme=tokyonight" alt="Stats" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hbeanjarah&theme=tokyonight&utcOffset=3" alt="Productive Time" width="32%" />
+
+</div>
+
+---
+
+## &nbsp;✦ &nbsp;3D Contribution Calendar
+
+> ⚙️ *Generated daily via GitHub Actions — see setup instructions below*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hbeanjarah/hbeanjarah/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%" />
+</div>
+
+---
+
+<details>
+<summary>⚙️ <strong>How to activate the 3D Contribution Calendar</strong></summary>
+
+<br/>
+
+Create the file `.github/workflows/profile-3d.yml` in your `hbeanjarah/hbeanjarah` repository:
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: hbeanjarah
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "Generate 3D Contribution Calendar"
+          git push
+```
+
+Then go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** to trigger it manually the first time.
+
+</details>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A3F73,100:323859&height=90&section=footer" />
+
+<sub>5+ years building for the web &nbsp;·&nbsp; Antananarivo, Madagascar &nbsp;·&nbsp; <a href="mailto:hbeanjarahoussen@gmail.com">hbeanjarahoussen@gmail.com</a></sub>
+
+</div>
