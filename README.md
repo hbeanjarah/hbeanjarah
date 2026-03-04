@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:323859,100:4A3F73&height=130&section=header&text=Be%20Anjara%20HOUSSEN&fontColor=BDD9F2&fontSize=32&fontAlignY=60&desc=Full-Stack%20JavaScript%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20NestJS&descColor=A68776&descSize=13&descAlignY=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1035,50:4A3F73,100:038C8C&height=130&section=header&text=Be%20Anjara%20HOUSSEN&fontColor=ffffff&fontSize=32&fontAlignY=60&desc=Full-Stack%20JavaScript%20Developer%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20NestJS&descColor=ffffff&descSize=13&descAlignY=80" alt="Header" width="100%" />
 
 <br/>
 
@@ -101,7 +101,7 @@ I thrive on fast onboarding, modernizing legacy codebases, and shipping solution
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A3F73,100:323859&height=90&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:038C8C,50:4A3F73,100:1a1035&height=90&section=footer" alt="Footer" width="100%" />
 
 <sub>5+ years building for the web &nbsp;·&nbsp; Antananarivo, Madagascar &nbsp;·&nbsp; <a href="mailto:hbeanjarahoussen@gmail.com">hbeanjarahoussen@gmail.com</a></sub>
 
