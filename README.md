@@ -16,7 +16,7 @@
 
 ## &nbsp;✦ &nbsp;About
 
-Full-Stack JavaScript Developer with **5+ years of experience** in agencies and software firms, based in **Antananarivo, Madagascar**. I specialize in building performant web applications across the entire stack — from polished React interfaces to robust Node.js/NestJS backends.
+Full-Stack JavaScript Developer with **5+ years of experience** in agencies and software firms, based in **Antananarivo, Madagascar**. I specialize in building performant web applications across the entire stack from polished React interfaces to robust Node.js/NestJS backends.
 
 I thrive on fast onboarding, modernizing legacy codebases, and shipping solutions that make a real impact on users.
 
@@ -92,7 +92,7 @@ I thrive on fast onboarding, modernizing legacy codebases, and shipping solution
 
 ## &nbsp;✦ &nbsp;3D Contribution Calendar
 
-> ⚙️ *Generated daily via GitHub Actions — see setup instructions below*
+> ⚙️ *Generated daily via GitHub Actions*
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/hbeanjarah/hbeanjarah/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%" />
