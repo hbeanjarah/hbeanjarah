@@ -79,7 +79,7 @@ I thrive on fast onboarding, modernizing legacy codebases, and shipping solution
 
 ---
 
-## &nbsp;✦ &nbsp;Trophies
+## &nbsp;✦ &nbsp;Activity & Stats 
 
 <div align="center">
 
